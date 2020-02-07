@@ -1,4 +1,4 @@
-package javaBasics;
+package javaBasics.x21_basic_syntax;
 
 public class Main {
 
