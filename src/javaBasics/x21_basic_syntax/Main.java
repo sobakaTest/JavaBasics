@@ -8,7 +8,7 @@ public class Main {
     static String fieldVar2;                                                         // глобальныя переменная без значения
 
     public static void main(String[] args) {
-//        declareVariables();
+        declareVariables();
 //        variableCasting();
 //        arrays();
 //        multidimensialArrays();
@@ -22,7 +22,7 @@ public class Main {
 //        logicalOperators();
 //        ifElseThenStatement();
 //        switchStatement();
-        doWhileStatement();
+//        doWhileStatement();
 
 
     }
