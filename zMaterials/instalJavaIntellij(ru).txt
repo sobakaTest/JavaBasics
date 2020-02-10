@@ -8,6 +8,9 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.
 для Windows нам нужна .exe,
 64 или 32 бит.
 
+https://git-scm.com/download
+Устанавливаем гит по ссылке. Настройки дэфолтные и не отдельных манипуляций не требуется.
+
 После установки java , заходим в терминал, в windows:
 Start -> Run(выполнить) -> cmd
 В командной строке прописываем:
