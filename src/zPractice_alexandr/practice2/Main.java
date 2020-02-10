@@ -1,4 +1,4 @@
-package zPractice_surname.practice4;
+package zPractice_alexandr.practice2;
 
 public class Main {
     public static void main(String[] args) {
